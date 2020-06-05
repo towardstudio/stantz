@@ -3,7 +3,7 @@
 👻 I ain't afriad of no cache.
 
 ## What?
-Its a CLI for looking aina  list of files, for a list of file names and adding or replacing an `v=?{hash}` to the end of the path.
+Its a CLI for looking in a list of files, for a list of file names and adding or replacing an `v=?{hash}` to the end of the path.
 
 ## Usage
 
