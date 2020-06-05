@@ -13,7 +13,9 @@
     "CLI",
     "cachebusting"
   ],
-  "author": "@bluegg <dev@bluegg.co.uk> (https://bluegg.co.uk)",
+	"author": "@bluegg <dev@bluegg.co.uk> (https://bluegg.co.uk)",
+	"homepage": "https://github.com/bluegg/stantz#readme",
+	"repository": "github:bluegg/stantz",
   "license": "MIT",
   "dependencies": {
     "g": "^2.0.1",

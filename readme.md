@@ -2,6 +2,8 @@
 
 👻 I ain't afriad of no cache.
 
+![Gif of Ray off of GhostBusters saying 'Beautiful'](https://media.giphy.com/media/pGx2Z9q2pB4Eo/giphy.gif)
+
 ## What?
 Its a CLI for looking in a list of files, for a list of file names and adding or replacing an `v=?{hash}` to the end of the path.
 
