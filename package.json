@@ -1,0 +1,22 @@
+{
+  "name": "stantz",
+  "version": "0.0.1",
+  "description": "I ain't afraid of no cache... I add a query string hash to the end of the file url to cachebust it",
+  "main": "bin/index.js",
+  "bin": {
+    "stantz": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "cachebusting"
+  ],
+  "author": "@bluegg <dev@bluegg.co.uk> (https://bluegg.co.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "g": "^2.0.1",
+    "yargs": "^13.2.4"
+  }
+}
